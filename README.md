@@ -5,12 +5,12 @@
 ### 내 성향에 맞는 여행 메이트 찾기 플랫폼
 [_**areyoutravelers.shop**_](https://areyoutravelers.shop/)
 
-![배너](https://github.com/likelion-backend-5th/Final_Project_3team/assets/80811887/3a7ed9c0-900b-4dec-bd37-8ede048561fd)
+![배너](https://github.com/Dothur/java-project2/assets/80811887/c7712ded-8426-4481-9343-303c1cc2fb69)
 
 <br>
 
 ## **_💁🏻‍ 팀원 소개_**
-![image](https://github.com/AreYouTravelers/backend/assets/52392720/28327717-98d7-4449-87b6-0d64241f4226)
+![image](https://github.com/Dothur/java-project2/assets/80811887/d637ee52-5ddf-42ca-8171-f0b1e9d23c45)
 
 ---  
 <br>
@@ -19,7 +19,7 @@
 
 
 ## **_✈️ 프로젝트 소개_**
-![메인페이지](https://github.com/likelion-backend-5th/Final_Project_3team/assets/80811887/a2964cd8-ebcb-4931-acb7-e382b05115fd)
+![메인페이지](https://github.com/Dothur/java-project2/assets/80811887/1f1bd940-f840-4b3b-9469-a73963e4249a)
 
 - 다양한 지역과 나라별로 MBTI와 성향을 고려한 여행 메이트 및 개인 로컬 투어 가이드를 찾을 수 있는 온라인 서비스 프로젝트입니다.
 - 다른 여행 메이트 및 가이드 검색 서비스와 다르게 MBTI 및 성향 정보를 활용하여 개인의 취향과 선호도를 고려하여 맞춤형 서비스를 이용할 수 있습니다.
@@ -52,14 +52,14 @@
 
 
 ## 📊 _CI/CD_
-![image](https://github.com/AreYouTravelers/backend/assets/52392720/f064c417-b6d1-4cc1-bda2-05cfe79aaa33)
+![image](https://github.com/Dothur/java-project2/assets/80811887/cf2462dc-7019-451d-934c-b1b42f7312a6)
 
 
 ## 📊 _ERD_
-![image](https://github.com/AreYouTravelers/backend/assets/52392720/0f7521c3-2708-43f2-a2ec-fa64ab09d9a1)
+![image](https://github.com/Dothur/java-project2/assets/80811887/0c17d264-3a06-489d-9800-a8bab7317b71)
 
 ## 📊 _Flow Chart_
-![image](https://github.com/AreYouTravelers/backend/assets/52392720/eb647137-d1a3-417f-bcba-d930b911e8cf)
+![image](https://github.com/Dothur/java-project2/assets/80811887/f8ce12da-9ee5-48fa-a793-bb71c21e20c1)
 
 
 ## 📮 _API Documentations_
